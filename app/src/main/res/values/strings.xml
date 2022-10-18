@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Four Connecté</string>
+    <string name="devices">Appareil Bluetooth </string>
+    <string name="tmpMonter">Temps de monter :</string>
+    <string name="tmpRegulation">Temps de régulation :</string>
+    <string name="tmpDescente">Temps de descente :</string>
+    <string name="temperature">Température :</string>
+    <string name="param_trage">Paramètrage</string>
+</resources>
